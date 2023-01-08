@@ -19,7 +19,14 @@
     :align: middle
     :alt: groupwork
 
+.. |turtleFLF| image:: ../../_static/turtleForwardLeftForward.png
+    :width: 150
+    :align: left
 
+.. |turtleFRF| image:: ../../_static/turtleTurnForwardRightForward.png
+    :width: 150 
+    :align: left 
+	  
 
 .. |repl| raw:: html
 
@@ -345,18 +352,20 @@ instead of 100. You would do this using the code ``yertle.forward(50);``.
    :adaptive:
    :noindent:
 
-   The following program uses a turtle to draw a sort-of sideways capital L as shown to the 
-   left, <img src="../_static/turtleForwardLeftForward.png" width="150" align="left" hspace="10" vspace="5" /> 
-   but the lines are mixed up.  The program should do all necessary 
+      
+   |turtleFLF| The following program uses a turtle to draw a sort-of sideways capital L as shown to the 
+   left, but the lines are mixed up.  The program should do all necessary 
    set-up: start the class definition, start the main method, and create a world and turtle. 
    Then it should ask the turtle to turn right, go forward, turn left, and then go forward 50 pixels. 
    Next, it should ask the world to show itself.  Finally, it should close the main method 
    and class definition. We have added a compass to the picture to indicate the directions 
-   north, south, west, and east. <br /><br /><p>Drag the needed blocks of statements from the left column to the right column and put them in the right order.  
-   There are <b>three extra blocks</b> that are not needed in a correct solution.  
-   Then click on <i>Check Me</i> to see if you are right. You will be told if 
-   any of the lines are in the wrong order or are the wrong blocks.  </p>
-
+   north, south, west, and east. 
+   
+   Drag the needed blocks of statements from the left column to the right column and put them in the right order.  
+   There are **three extra blocks** that are not needed in a correct solution.  
+   Then click on *Check Me* to see if you are right. You will be told if 
+   any of the lines are in the wrong order or are the wrong blocks.  
+   
    -----
    public class TurtleExample3 {
    =====
@@ -391,7 +400,21 @@ instead of 100. You would do this using the code ``yertle.forward(50);``.
        :adaptive:
        :noindent:
 
-       The following program uses a turtle to draw the picture shown to the left, <img src="../_static/turtleTurnForwardRightForward.png" width="150" align="left" hspace="10" vspace="5" /> but the lines are mixed up.  The program should do all necessary set-up: start the class definition, start the main method, and create a world and turtle. Then it should ask the turtle to turn 45 degrees, go forward 100 pixels, turn right, and then go forward 50 pixels. Next, it should ask the world to show itself. Finally, it should close the main method and class definition. We have added a compass to the picture to indicate the directions north, south, west, and east. <br /><br /><p>Drag the needed blocks of statements from the left column to the right column and put them in the right order.  There are <b>three extra blocks</b> that are not needed in a correct solution.  Then click on <i>Check Me</i> to see if you are right. You will be told if any of the lines are in the wrong order or are the wrong blocks.  </p>
+       |turtleFRF| The following program uses a turtle to draw the picture shown to the left,  
+       but the lines are mixed up.  The program should do all necessary set-up: 
+       start the class definition, start the main method, and create a world and turtle. 
+       Then it should ask the turtle to turn 45 degrees, go forward 100 pixels, turn right, 
+       and then go forward 50 pixels. Next, it should ask the world to show itself. 
+       Finally, it should close the main method and class definition. 
+       We have added a compass to the picture to indicate the directions north, south, west, and east. 
+       
+       
+       Drag the needed blocks of statements from the left column to the right 
+       column and put them in the right order.  There are **three extra blocks** 
+       that are not needed in a correct solution.  Then click on *Check Me* to 
+       see if you are right. You will be told if any of the lines are in the 
+       wrong order or are the wrong blocks.  
+       
        -----
        public class TurtleExample4 {
        =====
