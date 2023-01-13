@@ -295,13 +295,13 @@ In the mixed up programs below, drag the blocks to the right to put them in the 
    The following has the correct code that uses a third variable named "temp" to swap the 
    values in h and w. 
 
-   The code is mixed up and contains <b>one extra block</b> which is not needed 
+   The code is mixed up and contains **one extra block** which is not needed 
    in a correct solution.  Drag the needed blocks from the left into the correct 
    order on the right, then check your solution.  
    You will be told if any of the blocks are in the wrong order or if you need to remove 
    one or more blocks.  
    
-   After three incorrect attempts you will be able to use the <i>Help Me</i> button to make the problem easier.  
+   After three incorrect attempts you will be able to use the *Help Me* button to make the problem easier.  
    -----
    int h = 3;
    int w = 5;

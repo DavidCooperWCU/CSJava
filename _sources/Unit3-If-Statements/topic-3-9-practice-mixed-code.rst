@@ -48,7 +48,7 @@ two that aren't needed in the correct solution.
 
    The following program segment should print 
    either "You can go out" if you don't have any homework and have cleaned and 
-   otherwise should print "You can not go out". But the blocks have been mixed up and includes <b>one extra block</b> that is not needed in a correct solution.  Drag the needed blocks from the left and put them in the correct order on the right. 
+   otherwise should print "You can not go out". But the blocks have been mixed up and includes **one extra block** that is not needed in a correct solution.  Drag the needed blocks from the left and put them in the correct order on the right. 
    -----
    public class Test1
    {
@@ -79,7 +79,7 @@ two that aren't needed in the correct solution.
    :adaptive:
    :noindent:
 
-   The main method in the following class should print if x is in the range of 1 to 10 (inclusive) or not. But, the blocks have been mixed up and includes <b>an extra block</b> that isn't needed in the solution.  Drag the needed blocks from the left and put them in the correct order on the right.  
+   The main method in the following class should print if x is in the range of 1 to 10 (inclusive) or not. But, the blocks have been mixed up and includes **an extra block** that isn't needed in the solution.  Drag the needed blocks from the left and put them in the correct order on the right.  
    
    -----
    public class Test1
@@ -110,7 +110,7 @@ two that aren't needed in the correct solution.
    :adaptive:
    :noindent:
 
-   The main method in the following class should print out if a string has the word "ringing" in it or not. But, the blocks have been mixed up and includes <b>an extra block</b> that isn't needed in the solution.  Drag the needed blocks from the left and put them in the correct order on the right.  
+   The main method in the following class should print out if a string has the word "ringing" in it or not. But, the blocks have been mixed up and includes **an extra block** that isn't needed in the solution.  Drag the needed blocks from the left and put them in the correct order on the right.  
   
    -----
    public class Test1
@@ -141,7 +141,7 @@ two that aren't needed in the correct solution.
    :adaptive:
    :noindent:
 
-   The main method in the following class should print if your favorite food is junk food (pizza or wings) or not. But, the blocks have been mixed up and includes <b>an extra block</b> that is not needed in a correct solution.  Drag the needed blocks from the left and put them in the correct order on the right.  
+   The main method in the following class should print if your favorite food is junk food (pizza or wings) or not. But, the blocks have been mixed up and includes **an extra block** that is not needed in a correct solution.  Drag the needed blocks from the left and put them in the correct order on the right.  
    
    -----
    public class Test1
@@ -173,7 +173,7 @@ two that aren't needed in the correct solution.
    :adaptive:
    :noindent:
 
-   The main method in the following class should print your fine if you are speeding.  If you are going over 65 but less than 75 the fine is 50.  If you are going at least 75 and less than 85 the fine is 100.  Over that the fine is 200.   But, the blocks have been mixed up and includes <b>two extra blocks</b> that aren't needed in the solution.  Drag the needed blocks from the left and put them in the correct order on the right.  
+   The main method in the following class should print your fine if you are speeding.  If you are going over 65 but less than 75 the fine is 50.  If you are going at least 75 and less than 85 the fine is 100.  Over that the fine is 200.   But, the blocks have been mixed up and includes **two extra blocks** that aren't needed in the solution.  Drag the needed blocks from the left and put them in the correct order on the right.  
    
    -----
    public class Test1
@@ -237,7 +237,7 @@ two that aren't needed in the correct solution.
    :adaptive:
    :noindent:
 
-   The main method in the following class should print if you can text now.  You can text if you are not driving and not eating. But, the blocks have been mixed up and includes <b>an extra block</b> that isn't needed in the solution.  Drag the needed blocks from the left and put them in the correct order on the right.  
+   The main method in the following class should print if you can text now.  You can text if you are not driving and not eating. But, the blocks have been mixed up and includes **an extra block** that isn't needed in the solution.  Drag the needed blocks from the left and put them in the correct order on the right.  
    
    -----
    public class Test1

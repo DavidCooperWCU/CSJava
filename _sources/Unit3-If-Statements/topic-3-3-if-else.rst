@@ -228,7 +228,7 @@ Notice the second condition is simply the negation of the first condition.
    :adaptive:
    :noindent:
    
-   The following program should print out "x is even" if the remainder of x divided by 2 is 0 and "x is odd" otherwise, but the code is mixed up.   Drag the blocks from the left and place them in the correct order on the right.  Click on <i>Check Me</i> to see if you are right. 
+   The following program should print out "x is even" if the remainder of x divided by 2 is 0 and "x is odd" otherwise, but the code is mixed up.   Drag the blocks from the left and place them in the correct order on the right.  Click on *Check Me* to see if you are right. 
    -----
    public class EvenOrOdd
    {
