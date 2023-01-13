@@ -21,11 +21,11 @@
 
 .. |turtleFLF| image:: ../../_static/turtleForwardLeftForward.png
     :width: 150
-    :align: left
+    :align: top
 
 .. |turtleFRF| image:: ../../_static/turtleTurnForwardRightForward.png
     :width: 150 
-    :align: left 
+    :align: top 
 	  
 
 .. |repl| raw:: html
