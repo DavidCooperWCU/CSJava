@@ -353,7 +353,9 @@ instead of 100. You would do this using the code ``yertle.forward(50);``.
    :noindent:
 
       
-   |turtleFLF| The following program uses a turtle to draw a sort-of sideways capital L as shown to the 
+   |turtleFLF| 
+   
+   The following program uses a turtle to draw a sort-of sideways capital L as shown above to the 
    left, but the lines are mixed up.  The program should do all necessary 
    set-up: start the class definition, start the main method, and create a world and turtle. 
    Then it should ask the turtle to turn right, go forward, turn left, and then go forward 50 pixels. 
@@ -400,7 +402,9 @@ instead of 100. You would do this using the code ``yertle.forward(50);``.
        :adaptive:
        :noindent:
 
-       |turtleFRF| The following program uses a turtle to draw the picture shown to the left,  
+       |turtleFRF| 
+       
+       The following program uses a turtle to draw the picture shown above to the left,  
        but the lines are mixed up.  The program should do all necessary set-up: 
        start the class definition, start the main method, and create a world and turtle. 
        Then it should ask the turtle to turn 45 degrees, go forward 100 pixels, turn right, 
