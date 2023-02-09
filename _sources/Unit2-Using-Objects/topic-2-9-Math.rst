@@ -252,7 +252,8 @@ Now what about the combination lock for this challenge? It has 3 dials with 0-40
    :language: java
    :autograde: unittest
    
-   Complete the combination lock challenge below.
+   Complete the combination lock challenge below. **Note:** Only separate the numbers by whitespace. 
+   Don't use commas or words to describe what the program is doing.
    ~~~~
    public class MathChallenge
    {
