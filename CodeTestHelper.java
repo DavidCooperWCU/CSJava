@@ -52,11 +52,12 @@ public class CodeTestHelper
 
     public CodeTestHelper(String name, String input){
         inContent = new ByteArrayInputStream(input.getBytes(StandardCharsets.UTF_8));
+        InputStream temp = System.in;
         System.setIn(inContent);
         
         setupClass(name);
         
-        System.setIn(System.in);
+        System.setIn(temp);
 
     }
 
@@ -1483,11 +1484,13 @@ public class CodeTestHelper
 
     public String getMethodOutputWithInput(String methodName, String input) {
         inContent = new ByteArrayInputStream(input.getBytes(StandardCharsets.UTF_8));
+        InputStream temp = System.in;
+        
         System.setIn(inContent);
         
         String output = getMethodOutput(methodName);
 
-        System.setIn(System.in);
+        System.setIn(temp);
 
         return output;
     }
